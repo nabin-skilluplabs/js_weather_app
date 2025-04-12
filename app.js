@@ -1,4 +1,4 @@
-const API_KEY = 'T5JGY8HR7LG7BY723DV9TYJXD';
+const API_KEY = '';
 
 async function handleForm() {
     const location = document.querySelector("input").value;
